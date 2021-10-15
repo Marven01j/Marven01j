@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marven
 - 👀 I’m interested in Web and mobile development
-- 🌱 I’m currently learning Frontend delopment
+- 🌱 I’m currently learning Frontend development
 - 📫 How to reach me ... jmarven25@gmail.com or @Marvenjoissaint on twitter
 
 <!---
